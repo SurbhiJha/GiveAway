@@ -1,0 +1,8 @@
+Progress so far:
+I have narrowed down on the workflow of my app and prepared the wire frames for the same. Following those I have created the most basic form of my consumer app.
+
+Next to-do:
+In the next few hours, I will be
+1. Creating the client side app
+2. Integrating these services to the robust backend
+3. Integrating Amazon or third party APIs in my app for a credit system
